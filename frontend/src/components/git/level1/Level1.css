@@ -1,0 +1,31 @@
+.window {
+    text-align: center;
+}
+
+.ico-row {
+    background-color: #0d1117;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row; /* Изменили на row */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.lvl1 {
+    height: 10vmin;
+    padding-left: 10cm;
+    flex: 1;
+}
+
+.lvl2 {
+    height: 10vmin;
+    flex: 1;
+}
+
+.lvl3 {
+    height: 10vmin;
+    padding-right: 10cm;
+    flex: 1;
+}

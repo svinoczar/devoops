@@ -1,0 +1,31 @@
+.App-window {
+  text-align: center;
+}
+
+.ico-row {
+  background-color: #0d1117;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Git-logo {
+  height: 10vmin;
+  padding-left: 10cm;
+  flex: 1;
+}
+
+.Bash-logo {
+  height: 10vmin;
+  flex: 1;
+}
+
+.Docker-logo {
+  height: 10vmin;
+  padding-right: 10cm;
+  flex: 1;
+}

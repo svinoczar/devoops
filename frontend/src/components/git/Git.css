@@ -1,0 +1,14 @@
+.Git {
+    text-align: center;
+}
+
+.ico-row {
+    background-color: #0d1117;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: row; /* Изменили на row */
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
